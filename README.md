@@ -28,7 +28,7 @@ I just... lose hope sometimes ✨
 <table style="border-radius: 12px !important; background-color: transparent !important; padding: 15px !important; width: 100% !important;">
   <tr>
     <td width="160" align="center">
-      <img src="Customizations/Pfp at CLab.JPG" width="150" style="border-radius: 50%;" />
+      <img src="asset/Pfp at CLab.JPG" width="150" style="border-radius: 50%;" /> 
     </td>
     <td style="color: #000000 !important; font-family: monospace !important; font-size: 16px !important; padding-left: 20px !important;">
       <h3>Hi, I'm Joshua 👋</h3>
