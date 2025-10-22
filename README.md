@@ -66,23 +66,36 @@ I just... lose hope sometimes ✨
 ---
 
 ### 📂 Activities  <br>
-📌 **Midterms**  
+<details>
+  <summary>📌 Midterms</summary>
+
 - Lab 1  : [OOB Simple Hospital Patient Room System](Java%20Personal%20Folder/Hospital.java)
 - Lab 2  : [Loops and Function](OOP%20LAB%20TASKS/Midterm%20Lab%20Task%202%20-%20Loops%20and%20Function/)  
 - Lab 3  : [Python List Collections](OOP%20LAB%20TASKS/Midterm%20Lab%20Task%203%20-%20Python%20List%20Collections)  
 - Lab 4  : [Using Dictionary Collections](OOP%20LAB%20TASKS/Midterm%20Lab%20Task%204%20Using%20Dictionary%20Collections)  
-- Lab 5  : [Creating Class and Instantiating Objects in Python](OOP%20LAB%20TASKS/Midterm%20Task%205%20Creating%20Class%20and%20Instantiating%20Objects%20in%20Python)  
+- Lab 5  : [Creating Class and Instantiating Objects in Python](OOP%20LAB%20TASKS/Midterm%20Task%205%20Creating%20Class%20and%20Instantiating%20Objects%20in%20Python)
 
-📌 **Finals**  
+</details>
+
+<details>
+  <summary>📌 Finals</summary>
+
 - Lab 1  : [Encapsulation - A Car That Works](OOP%20LAB%20TASKS/Finals%20Lab%20Task%201.%20Encapsulation-%20A%20Car%20That%20Works)
 
-🎯 **Personal Practices / Activities**  <br>
+</details>
+
+<details>
+  <summary>🎯 Personal Practices / Activities</summary>
+
 🟢  *Java*
 - [Functional/Procedural – Simple Billing System](Java%20Personal%20Folder/simpleCart.java)  
 - [Procedural/Functional – Grade Calculator](Java%20Personal%20Folder/GradeCalculator.java)  
 
 🟢  *C*  
 - *(Coming soon...)*
+
+</details>
+
   
   ---
 ### ✨ Fun Facts About Me
