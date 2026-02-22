@@ -33,7 +33,7 @@ I just... lose hope sometimes ✨
     <td style="color: #000000 !important; font-family: monospace !important; font-size: 16px !important; padding-left: 20px !important;">
       <h3>Hi, I'm Joshua 👋</h3>
       <ul>
-        <li>🌱 Learning OOP in Java & C</li>
+        <li>🌱 Learning OOP in Pyhon, Java, & C</li>
         <li>🎨 Scribble Artist</li>
         <li>📚 Currently having: <i>a headache</i></li>
       </ul>
