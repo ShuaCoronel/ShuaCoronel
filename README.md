@@ -48,9 +48,9 @@ I just... lose hope sometimes ✨
 [![Eh%3F](https://img.shields.io/badge/Eh%3F-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q)
 [![PPOP Music](https://img.shields.io/badge/Random%20Discoveries-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
-| 🎧 Now Playing | 📊 GitHub Stats |
+| 🎧 Now Playing | 👀 Profile Visitors |
 | -------------- | --------------- |
-| <a href="https://open.spotify.com/user/31irnz42nxwpsuoi6wbmfkfx4uba" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150"/></a> | ![GitHub Stats](https://github-readme-stats-six-rho-34.vercel.app/api?username=ShuaCoronel&show_icons=true&theme=default) |
+| <a href="https://open.spotify.com/user/31irnz42nxwpsuoi6wbmfkfx4uba" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="180"/></a> | <br><img src="https://komarev.com/ghpvc/?username=ShuaCoronel&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" width="300"/><br><br>![Top Languages](https://github-readme-stats-six-rho-34.vercel.app/api/top-langs/?username=ShuaCoronel&layout=compact&theme=default) |
 
 
 
